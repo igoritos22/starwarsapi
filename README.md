@@ -15,3 +15,7 @@ Habilitar um processo de DevSecOps durante todo o dosenvolvimento
 ### Ações Futuras
 - Transformar o projeto numa referencia
 - Tornar o projeto publico
+
+### Badge DeepSource
+
+[![DeepSource](https://deepsource.io/gl/iluiz.sousa/jogatina-frontend.svg/?label=active+issues&show_trend=true&token=tKZ17aThtasvFVA4eqbpTwYl)](https://deepsource.io/gl/iluiz.sousa/jogatina-frontend/?ref=repository-badge)
