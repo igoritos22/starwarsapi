@@ -16,6 +16,8 @@ Habilitar um processo de DevSecOps durante todo o dosenvolvimento
 - Transformar o projeto numa referencia
 - Tornar o projeto publico
 
-### Badge DeepSource
+### Badges
 
 [![DeepSource](https://deepsource.io/gl/iluiz.sousa/jogatina-frontend.svg/?label=active+issues&show_trend=true&token=tKZ17aThtasvFVA4eqbpTwYl)](https://deepsource.io/gl/iluiz.sousa/jogatina-frontend/?ref=repository-badge)
+
+[![DeepScan grade](https://deepscan.io/api/teams/14379/projects/17511/branches/403235/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=14379&pid=17511&bid=403235)
